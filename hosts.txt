@@ -1,0 +1,5 @@
+kelas-c-master slots=1
+kelas-c-worker1 slots=1
+kelas-c-worker2 slots=1
+kelas-c-worker3 slots=1
+kelas-c-worker4 slots=1
